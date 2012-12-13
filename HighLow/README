@@ -9,6 +9,10 @@ Basic steps are below.
 3. If CPU (Dealer) has the card that you selected, you win.
   If not, you lose.
 
+- If you win at HIGH or LOW, you will get double of your betting.
+- If you win at SEVEN, you will get 10 times of your betting.
+- If you lose at HIGH, LOW, SEVEN, you will lose double of your betting.
+
 4. And keep going.
 
 ------------------------------------------------------------
