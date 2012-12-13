@@ -1,0 +1,21 @@
+This game is about High Low card game.
+Basic steps are below.
+
+1. Bet your money
+2. Select High, Low or Seven.
+- High means 8,9,10,J,Q,K
+- Low means A,2,3,4,5,6
+- And Seven is there.
+3. If CPU (Dealer) has the card that you selected, you win.
+  If not, you lose.
+
+4. And keep going.
+
+------------------------------------------------------------
+
+If you want to compile this game in Linux, you just use makefile.
+If you want to compile this game in Windows, just use the cpp source.
+
+(I took of the header file, since this program has short codes.)
+
+Thank you, and enjoy it!
