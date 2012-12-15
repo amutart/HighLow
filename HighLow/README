@@ -18,8 +18,10 @@ Basic steps are below.
 ------------------------------------------------------------
 
 If you want to compile this game in Linux, you just use makefile.
-If you want to compile this game in Windows, just use the cpp source.
+- In the terminal, just type "make all".
 
-(I took of the header file, since this program has short codes.)
+If you want to compile this game in Windows, just use the cpp source.
+- There is no header file because of my complier had problem with .h file.
+So I took of the header file, since this program has short codes.
 
 Thank you, and enjoy it!
